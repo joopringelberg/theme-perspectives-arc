@@ -1,0 +1,21 @@
+{
+    "name": "theme-perspectives-arc",
+    "displayName": "theme-perspectives-arc",
+    "description": "A coloring theme for Perspectives ARC model files.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "perspectives-arc",
+                "uiTheme": "vs-dark",
+                "path": "./themes/perspectives-arc-color-theme.json"
+            }
+        ]
+    }
+}
