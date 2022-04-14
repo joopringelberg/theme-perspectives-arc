@@ -2,7 +2,7 @@
     "name": "theme-perspectives-arc",
     "displayName": "theme-perspectives-arc",
     "description": "A coloring theme for Perspectives ARC model files.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -22,5 +22,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/joopringelberg/theme-perspectives-arc.git"
-    }
+    },
+    "author": {
+        "name" : "Joop Ringelberg",
+        "email" : "joopringelberg@perspect.it"
+      }
 }
